@@ -13,7 +13,6 @@ import chat.model.entity.OnlineUserDetail;
 /**
  * 包含了整个客户端基本要用到的一些全局共同的变量
  * @author choldrim
- *
  */
 public class CommonData
 {
@@ -52,6 +51,7 @@ public class CommonData
         {
             e.printStackTrace();
         }
+
     }
 
     /**

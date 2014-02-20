@@ -16,7 +16,7 @@ public class OnlineUserDetail  implements Serializable
     /**
      * 空构造函数, 留着特殊情况下使用
      */
-    public OnlineUserDetail(){}
+    public OnlineUserDetail(){} 
     
     /**
      * 带参构造，初始化参数
@@ -49,4 +49,5 @@ public class OnlineUserDetail  implements Serializable
         this.userSex = userSex_;
     }
     
+
 }
